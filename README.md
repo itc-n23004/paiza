@@ -6,10 +6,15 @@
 
 ## 恋するハッカソン
 
-[恋するハッカソン](shorthair.py)
-
+[ショートヘアー](shorthair.py)
+[ロングヘアー](longhair.py)
+[ポニーテール](ponytail.py)
+[ツインテール](twintail.py)
+[おさげ](osage.py)
 
 ## プログラミングで彼女を作る
 
-![プログラミングで彼女を作る](eye.py)
-
+[つりめ](eye.py)
+[眼帯](gantai.py)
+[猫耳](nekomimi.py)
+[ショートヘアー](shorthair2.py)
